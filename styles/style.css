@@ -4,6 +4,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover; */
 }
+/* .main{
+    background-color: red !important;
+} */
 
 .navbar {
     background-color: papayawhip;
@@ -22,6 +25,8 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
+    background-color: papayawhip;
+    padding: 5%;
 }
 
 .p {
@@ -56,6 +61,7 @@ body {
     justify-content: center;
     text-align: center;
     align-items: center;
+    margin-top: 10%;
 }
 
 a {
